@@ -1,3 +1,3 @@
-# Authentication-Secrets
-
-To inspect the code for the module, you can clone this repository and use git checkout to see the completed code for each lesson. If you don't remember how to do this, be sure to revisit the Git and GitHub module in the course.
+this is a very effort and time taken process
+in which i invested my complete 2 days to complete this small project becasue of i tried of using the many types of authorisations and 
+authentication to save the users of my website from the hackers
